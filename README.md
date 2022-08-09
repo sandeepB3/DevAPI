@@ -10,5 +10,5 @@ This project makes use of the two most important rules to make a RESTful API.<br
 2. Use specific Pattern of Routes/endpoint
 
 ***
-##Install POSTMAN - A software that helps your learn and use API's<br>
+## Install POSTMAN - A software that helps your learn and use API's<br>
 To make a post request to our API (add data to API) we have used POSTMAN
